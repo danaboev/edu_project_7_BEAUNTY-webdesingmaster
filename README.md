@@ -1,6 +1,7 @@
 # web desing master 
 ## edu projects 
-html/css
-js
-operCart CMS
+- html
+- css
+- js
+- operCart CMS
  
